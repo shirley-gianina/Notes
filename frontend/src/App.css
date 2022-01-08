@@ -1,0 +1,13 @@
+body {
+  background-color: #D6F8D6 !important;
+}
+
+.bg-teal {
+  background-color: #7FB800;
+}
+
+.btn-success {
+  background-color: #7FB800 !important;
+  color: white;
+  border: transparent;
+}
